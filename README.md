@@ -1,6 +1,9 @@
 # HR-Dashboard-MySQL-PowerBI
 
-![image](https://user-images.githubusercontent.com/56026296/229609893-b7b1f261-5941-45af-8322-1ccb2535d36b.png)
+![Screenshot (42)](https://github.com/Vinodkumar-Hugar/Hr_Data_Analysis/assets/132828443/eac98b8b-ee34-4ddd-8a11-93f728246544)
+
+![Screenshot (43)](https://github.com/Vinodkumar-Hugar/Hr_Data_Analysis/assets/132828443/0da8e6c4-f240-4888-bb63-54145d2f242f)
+
 
 ## Data Used
 
